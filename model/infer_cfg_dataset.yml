@@ -1,0 +1,32 @@
+mode: paddle
+draw_threshold: 0.5
+metric: COCO
+use_dynamic_shape: true
+export_onnx: true
+export_eb: false
+arch: RCNN
+min_subgraph_size: 40
+mask: true
+Preprocess:
+- interp: 2
+  keep_ratio: true
+  target_size:
+  - 224
+  - 224
+  type: Resize
+- is_scale: true
+  mean:
+  - 0.485
+  - 0.456
+  - 0.406
+  std:
+  - 0.229
+  - 0.224
+  - 0.225
+  type: NormalizeImage
+- type: Permute
+- stride: 32
+  type: PadStride
+label_list:
+- top
+- below
