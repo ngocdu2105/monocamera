@@ -19,7 +19,7 @@ Find the coordinates of the center point of the object on the bottom surface. Th
 1. **Clone the Repository**:
    ```bash
    
-   git clone https://github.com/ngocdu2105/monocamera.git
+   git clone --branch feature/pipeline --single-branch https://github.com/ngocdu2105/monocamera.git
    cd monocamera
    
 2. **Create virtual environment and install**:
@@ -70,4 +70,5 @@ Implementation code for our paper:
   volume = {19},
   pages = {53--65}
 }
+
 
