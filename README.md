@@ -26,6 +26,11 @@ Find the coordinates of the center point of the object on the bottom surface. Th
    ```bash
    
    pip install -r requirements.txt
+
+3. **Run**:
+   ```bash
+   
+   python -m src.python.main
 ## Usage
 
 #### Download ONNX Models and Dataset
@@ -37,7 +42,7 @@ Download the ONNX models YOLOv5, RCNN into the `models` directory. And the image
 ## Demo
 The results obtained are demonstrated as shown in the image below. 
 <p align="center">
-  <img src="dataset/demopython.png" alt="Alt text" />
+  <img src="demo/demo.png" alt="Alt text" />
 </p>
 
 
@@ -65,3 +70,4 @@ Implementation code for our paper:
   volume = {19},
   pages = {53--65}
 }
+
