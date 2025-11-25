@@ -1,0 +1,40 @@
+[2025-11-22 00:06:32,031] [app] [INFO] Running on CPU
+[2025-11-22 00:06:32,031] [app] [INFO] Loading suscces model yolov5
+[2025-11-22 00:06:35,307] [app] [INFO] -----------  Model Configuration -----------
+[2025-11-22 00:06:35,307] [app] [INFO] Model Arch: RCNN
+[2025-11-22 00:06:35,307] [app] [INFO] Transform Order: 
+[2025-11-22 00:06:35,308] [app] [INFO] --transform op: Resize
+[2025-11-22 00:06:35,308] [app] [INFO] --transform op: NormalizeImage
+[2025-11-22 00:06:35,308] [app] [INFO] --transform op: Permute
+[2025-11-22 00:06:35,308] [app] [INFO] --transform op: PadStride
+[2025-11-22 00:06:35,309] [app] [INFO] --------------------------------------------
+[2025-11-22 00:06:35,310] [app] [INFO] Loading success RCNN  ....
+[2025-11-22 00:06:36,625] [app] [INFO] Model Yolov5 predict img
+[2025-11-22 00:06:36,629] [app] [DEBUG] (3, 224, 224)
+[2025-11-22 00:06:37,103] [app] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-11-22 00:06:39,598] [app] [INFO] Model Yolov5 predict img
+[2025-11-22 00:06:39,602] [app] [DEBUG] (3, 224, 224)
+[2025-11-22 00:06:40,149] [app] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-11-22 00:06:42,023] [app] [INFO] Model Yolov5 predict img
+[2025-11-22 00:06:42,027] [app] [DEBUG] (3, 224, 224)
+[2025-11-22 00:06:42,460] [app] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-11-22 00:06:43,985] [app] [INFO] Model Yolov5 predict img
+[2025-11-22 00:06:43,989] [app] [DEBUG] (3, 224, 192)
+[2025-11-22 00:06:44,401] [app] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-11-22 23:53:06,659] [app] [INFO] Running on CPU
+[2025-11-22 23:53:06,662] [app] [INFO] Loading suscces model yolov5
+[2025-11-22 23:53:10,248] [app] [INFO] -----------  Model Configuration -----------
+[2025-11-22 23:53:10,249] [app] [INFO] Model Arch: RCNN
+[2025-11-22 23:53:10,249] [app] [INFO] Transform Order: 
+[2025-11-22 23:53:10,249] [app] [INFO] --transform op: Resize
+[2025-11-22 23:53:10,250] [app] [INFO] --transform op: NormalizeImage
+[2025-11-22 23:53:10,250] [app] [INFO] --transform op: Permute
+[2025-11-22 23:53:10,250] [app] [INFO] --transform op: PadStride
+[2025-11-22 23:53:10,251] [app] [INFO] --------------------------------------------
+[2025-11-22 23:53:10,251] [app] [INFO] Loading success RCNN  ....
+[2025-11-22 23:53:12,071] [app] [INFO] Model Yolov5 predict img
+[2025-11-22 23:53:12,102] [app] [DEBUG] (3, 224, 224)
+[2025-11-22 23:53:12,948] [app] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-11-22 23:53:19,472] [app] [INFO] Model Yolov5 predict img
+[2025-11-22 23:53:19,493] [app] [DEBUG] (3, 224, 224)
+[2025-11-22 23:53:20,029] [app] [INFO] ONNXRuntime RCNN predict img crop 

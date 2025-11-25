@@ -1,0 +1,648 @@
+[2025-06-22 11:05:56,100] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 11:05:56,100] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 11:05:58,623] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 11:05:58,623] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 11:05:58,624] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 11:05:58,624] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 11:05:58,624] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 11:05:58,624] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 11:05:58,626] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 11:05:58,626] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 11:05:58,626] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 11:05:59,866] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:05:59,870] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:06:00,332] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:06:11,276] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:06:11,283] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:06:11,767] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:07:48,003] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 11:07:48,003] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 11:07:50,462] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 11:07:50,462] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 11:07:50,463] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 11:07:50,463] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 11:07:50,463] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 11:07:50,464] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 11:07:50,464] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 11:07:50,464] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 11:07:50,464] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 11:07:51,697] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:07:51,839] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\src\utils\utils.py line=13 func=predict var=startTime value=1750565271.498219
+[2025-06-22 11:07:51,840] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\src\utils\utils.py line=13 func=predict var=func value=<function YOLOV5.predict at 0x00000238D9603F70>
+[2025-06-22 11:07:51,844] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:07:52,348] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:08:03,620] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:08:03,620] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\src\utils\utils.py line=13 func=predict var=startTime value=1750565283.386738
+[2025-06-22 11:08:03,621] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\src\utils\utils.py line=13 func=predict var=func value=<function YOLOV5.predict at 0x00000238D9603F70>
+[2025-06-22 11:08:03,624] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:08:04,148] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:09:24,938] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 11:09:24,939] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 11:09:27,456] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 11:09:27,456] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 11:09:27,456] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 11:09:27,456] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 11:09:27,456] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 11:09:27,456] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 11:09:27,456] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 11:09:27,456] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 11:09:27,456] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 11:09:28,829] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:09:28,972] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=np value=<module 'numpy' from 'C:\\Users\\Admin\\anaconda3\\envs\\py34\\lib\\site-packages\\numpy\\__init__.py'>
+[2025-06-22 11:09:28,973] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=cv2 value=<module 'cv2' from 'C:\\Users\\Admin\\AppData\\Roaming\\Python\\Python39\\site-packages\\cv2\\__init__.py'>
+[2025-06-22 11:09:28,973] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=RCNN value=<class 'src.RCNN.rcnn.RCNN'>
+[2025-06-22 11:09:28,973] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=YOLOV5 value=<class 'src.YOLOV5.yolov5.YOLOV5'>
+[2025-06-22 11:09:28,974] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=Calibrator value=<class 'src.Calibration.Calibration.Calibrator'>
+[2025-06-22 11:09:28,974] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=PointCollection value=<class 'src.PointCollection.PointCollection.PointCollection'>
+[2025-06-22 11:09:28,974] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=LoadIMG value=<class 'src.utils.utils.LoadIMG'>
+[2025-06-22 11:09:28,975] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=find_center_top value=<function find_center_top at 0x00000192A2EB2AF0>
+[2025-06-22 11:09:28,975] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=draw_point value=<function draw_point at 0x00000192A2EC7550>
+[2025-06-22 11:09:28,975] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=plt value=<module 'matplotlib.pyplot' from 'C:\\Users\\Admin\\anaconda3\\envs\\py34\\lib\\site-packages\\matplotlib\\pyplot.py'>
+[2025-06-22 11:09:28,976] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=path value={'path_img': 'dataset/img', 'path_model_yolo': 'model/model_yolov5.onnx', 'path_model_rcnn': {'path': 'model/mask_rcnn_dataset_fix.onnx', 'cfg': 'model/infer_cfg_dataset.yml'}, 'path_calibration': 'dataset/calibration/cab.jpg'}
+[2025-06-22 11:09:28,976] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=imgs value=<src.utils.utils.LoadIMG object at 0x00000192A23D5460>
+[2025-06-22 11:09:28,976] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=yolo value=<src.YOLOV5.yolov5.YOLOV5 object at 0x00000192A5033820>
+[2025-06-22 11:09:28,977] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=rcnn value=<src.RCNN.rcnn.RCNN object at 0x00000192A50339A0>
+[2025-06-22 11:09:28,977] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=cal value=<src.Calibration.Calibration.Calibrator object at 0x00000192A5025040>
+[2025-06-22 11:09:28,978] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=wraps var=img value=array([[[ 16,  30,  48],
+        [  8,  23,  42],
+        [  3,  17,  39],
+        ...,
+        [ 54,  93, 138],
+        [ 55,  94, 139],
+        [ 75, 114, 159]],
+
+       [[ 29,  43,  62],
+        [ 10,  25,  44],
+        [  2,  18,  41],
+        ...,
+        [ 62, 101, 146],
+        [ 58,  97, 142],
+        [ 64, 103, 148]],
+
+       [[ 40,  54,  76],
+        [ 21,  35,  57],
+        [  8,  24,  47],
+        ...,
+        [ 63, 102, 146],
+        [ 65, 104, 148],
+        [ 68, 107, 151]],
+
+       ...,
+
+       [[ 28,  57,  88],
+        [ 26,  55,  86],
+        [ 33,  62,  93],
+        ...,
+        [ 32,  59,  93],
+        [ 26,  53,  87],
+        [ 29,  56,  90]],
+
+       [[ 33,  63,  92],
+        [ 32,  62,  91],
+        [ 35,  65,  94],
+        ...,
+        [ 31,  58,  92],
+        [ 26,  53,  87],
+        [ 20,  47,  81]],
+
+       [[ 35,  65,  94],
+        [ 30,  60,  89],
+        [ 35,  65,  94],
+        ...,
+        [ 31,  58,  92],
+        [ 36,  63,  97],
+        [ 31,  58,  92]]], dtype=uint8)
+[2025-06-22 11:09:28,983] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:09:29,426] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:10:30,384] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 11:10:30,385] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 11:10:32,450] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 11:10:32,450] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 11:10:32,451] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 11:10:32,451] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 11:10:32,451] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 11:10:32,452] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 11:10:32,452] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 11:10:32,452] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 11:10:32,452] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 11:10:33,709] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:10:33,851] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=np value=<module 'numpy' from 'C:\\Users\\Admin\\anaconda3\\envs\\py34\\lib\\site-packages\\numpy\\__init__.py'>
+[2025-06-22 11:10:33,851] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=cv2 value=<module 'cv2' from 'C:\\Users\\Admin\\AppData\\Roaming\\Python\\Python39\\site-packages\\cv2\\__init__.py'>
+[2025-06-22 11:10:33,852] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=RCNN value=<class 'src.RCNN.rcnn.RCNN'>
+[2025-06-22 11:10:33,852] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=YOLOV5 value=<class 'src.YOLOV5.yolov5.YOLOV5'>
+[2025-06-22 11:10:33,852] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=Calibrator value=<class 'src.Calibration.Calibration.Calibrator'>
+[2025-06-22 11:10:33,853] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=PointCollection value=<class 'src.PointCollection.PointCollection.PointCollection'>
+[2025-06-22 11:10:33,853] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=LoadIMG value=<class 'src.utils.utils.LoadIMG'>
+[2025-06-22 11:10:33,853] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=find_center_top value=<function find_center_top at 0x000001D6B1EA2AF0>
+[2025-06-22 11:10:33,854] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=draw_point value=<function draw_point at 0x000001D6B1EB7550>
+[2025-06-22 11:10:33,854] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=plt value=<module 'matplotlib.pyplot' from 'C:\\Users\\Admin\\anaconda3\\envs\\py34\\lib\\site-packages\\matplotlib\\pyplot.py'>
+[2025-06-22 11:10:33,854] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=path value={'path_img': 'dataset/img', 'path_model_yolo': 'model/model_yolov5.onnx', 'path_model_rcnn': {'path': 'model/mask_rcnn_dataset_fix.onnx', 'cfg': 'model/infer_cfg_dataset.yml'}, 'path_calibration': 'dataset/calibration/cab.jpg'}
+[2025-06-22 11:10:33,855] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=imgs value=<src.utils.utils.LoadIMG object at 0x000001D6B13C5460>
+[2025-06-22 11:10:33,855] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=yolo value=<src.YOLOV5.yolov5.YOLOV5 object at 0x000001D6B40247F0>
+[2025-06-22 11:10:33,856] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=rcnn value=<src.RCNN.rcnn.RCNN object at 0x000001D6B4024970>
+[2025-06-22 11:10:33,856] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=cal value=<src.Calibration.Calibration.Calibrator object at 0x000001D6B4016070>
+[2025-06-22 11:10:33,857] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=img value=array([[[ 16,  30,  48],
+        [  8,  23,  42],
+        [  3,  17,  39],
+        ...,
+        [ 54,  93, 138],
+        [ 55,  94, 139],
+        [ 75, 114, 159]],
+
+       [[ 29,  43,  62],
+        [ 10,  25,  44],
+        [  2,  18,  41],
+        ...,
+        [ 62, 101, 146],
+        [ 58,  97, 142],
+        [ 64, 103, 148]],
+
+       [[ 40,  54,  76],
+        [ 21,  35,  57],
+        [  8,  24,  47],
+        ...,
+        [ 63, 102, 146],
+        [ 65, 104, 148],
+        [ 68, 107, 151]],
+
+       ...,
+
+       [[ 28,  57,  88],
+        [ 26,  55,  86],
+        [ 33,  62,  93],
+        ...,
+        [ 32,  59,  93],
+        [ 26,  53,  87],
+        [ 29,  56,  90]],
+
+       [[ 33,  63,  92],
+        [ 32,  62,  91],
+        [ 35,  65,  94],
+        ...,
+        [ 31,  58,  92],
+        [ 26,  53,  87],
+        [ 20,  47,  81]],
+
+       [[ 35,  65,  94],
+        [ 30,  60,  89],
+        [ 35,  65,  94],
+        ...,
+        [ 31,  58,  92],
+        [ 36,  63,  97],
+        [ 31,  58,  92]]], dtype=uint8)
+[2025-06-22 11:10:33,872] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:10:34,364] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:14:44,028] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 11:14:44,028] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 11:14:46,129] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 11:14:46,130] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 11:14:46,130] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 11:14:46,130] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 11:14:46,131] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 11:14:46,131] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 11:14:46,131] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 11:14:46,131] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 11:14:46,132] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 11:14:47,524] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\src\YOLOV5\yolov5.py line=47 func=__wrap_get_box var=self value=<src.YOLOV5.yolov5.YOLOV5 object at 0x000001FA857D37F0>
+[2025-06-22 11:14:47,525] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\src\YOLOV5\yolov5.py line=47 func=__wrap_get_box var=img value=array([[[ 16,  30,  48],
+        [  8,  23,  42],
+        [  3,  17,  39],
+        ...,
+        [ 54,  93, 138],
+        [ 55,  94, 139],
+        [ 75, 114, 159]],
+
+       [[ 29,  43,  62],
+        [ 10,  25,  44],
+        [  2,  18,  41],
+        ...,
+        [ 62, 101, 146],
+        [ 58,  97, 142],
+        [ 64, 103, 148]],
+
+       [[ 40,  54,  76],
+        [ 21,  35,  57],
+        [  8,  24,  47],
+        ...,
+        [ 63, 102, 146],
+        [ 65, 104, 148],
+        [ 68, 107, 151]],
+
+       ...,
+
+       [[ 28,  57,  88],
+        [ 26,  55,  86],
+        [ 33,  62,  93],
+        ...,
+        [ 32,  59,  93],
+        [ 26,  53,  87],
+        [ 29,  56,  90]],
+
+       [[ 33,  63,  92],
+        [ 32,  62,  91],
+        [ 35,  65,  94],
+        ...,
+        [ 31,  58,  92],
+        [ 26,  53,  87],
+        [ 20,  47,  81]],
+
+       [[ 35,  65,  94],
+        [ 30,  60,  89],
+        [ 35,  65,  94],
+        ...,
+        [ 31,  58,  92],
+        [ 36,  63,  97],
+        [ 31,  58,  92]]], dtype=uint8)
+[2025-06-22 11:14:47,525] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:14:47,528] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:14:47,906] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:21:21,446] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 11:21:21,446] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 11:21:23,623] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 11:21:23,624] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 11:21:23,624] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 11:21:23,624] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 11:21:23,625] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 11:21:23,625] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 11:21:23,625] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 11:21:23,625] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 11:21:23,626] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 11:21:24,882] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:21:25,029] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:21:25,427] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:21:36,652] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:21:36,660] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:21:37,076] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:22:04,492] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:22:04,496] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:22:04,922] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:23:02,641] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 11:23:02,641] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 11:23:04,566] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 11:23:04,566] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 11:23:04,566] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 11:23:04,566] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 11:23:04,566] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 11:23:04,566] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 11:23:04,566] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 11:23:04,566] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 11:23:04,566] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 11:23:05,774] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:23:05,910] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:23:06,360] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:23:32,949] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 11:23:32,949] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 11:23:34,871] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 11:23:34,871] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 11:23:34,871] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 11:23:34,871] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 11:23:34,871] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 11:23:34,871] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 11:23:34,871] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 11:23:34,871] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 11:23:34,871] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 11:23:36,051] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:23:36,235] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:23:36,706] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:24:03,024] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 11:24:03,024] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 11:24:04,952] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 11:24:04,952] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 11:24:04,952] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 11:24:04,952] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 11:24:04,952] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 11:24:04,952] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 11:24:04,952] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 11:24:04,952] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 11:24:04,952] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 11:24:06,130] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:24:06,262] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=np value=<module 'numpy' from 'C:\\Users\\Admin\\anaconda3\\envs\\py34\\lib\\site-packages\\numpy\\__init__.py'>
+[2025-06-22 11:24:06,262] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=cv2 value=<module 'cv2' from 'C:\\Users\\Admin\\AppData\\Roaming\\Python\\Python39\\site-packages\\cv2\\__init__.py'>
+[2025-06-22 11:24:06,262] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=RCNN value=<class 'src.RCNN.rcnn.RCNN'>
+[2025-06-22 11:24:06,262] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=YOLOV5 value=<class 'src.YOLOV5.yolov5.YOLOV5'>
+[2025-06-22 11:24:06,262] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=Calibrator value=<class 'src.Calibration.Calibration.Calibrator'>
+[2025-06-22 11:24:06,262] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=PointCollection value=<class 'src.PointCollection.PointCollection.PointCollection'>
+[2025-06-22 11:24:06,278] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=LoadIMG value=<class 'src.utils.utils.LoadIMG'>
+[2025-06-22 11:24:06,278] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=find_center_top value=<function find_center_top at 0x0000027573B02AF0>
+[2025-06-22 11:24:06,278] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=draw_point value=<function draw_point at 0x0000027573B17550>
+[2025-06-22 11:24:06,278] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=plt value=<module 'matplotlib.pyplot' from 'C:\\Users\\Admin\\anaconda3\\envs\\py34\\lib\\site-packages\\matplotlib\\pyplot.py'>
+[2025-06-22 11:24:06,278] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=path value={'path_img': 'dataset/img', 'path_model_yolo': 'model/model_yolov5.onnx', 'path_model_rcnn': {'path': 'model/mask_rcnn_dataset_fix.onnx', 'cfg': 'model/infer_cfg_dataset.yml'}, 'path_calibration': 'dataset/calibration/cab.jpg'}
+[2025-06-22 11:24:06,278] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=imgs value=<src.utils.utils.LoadIMG object at 0x0000027573025460>
+[2025-06-22 11:24:06,278] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=yolo value=<src.YOLOV5.yolov5.YOLOV5 object at 0x0000027562D7CF40>
+[2025-06-22 11:24:06,278] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=rcnn value=<src.RCNN.rcnn.RCNN object at 0x000002757309C850>
+[2025-06-22 11:24:06,278] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=cal value=<src.Calibration.Calibration.Calibrator object at 0x0000027575C5FBB0>
+[2025-06-22 11:24:06,278] [src.YOLOV5.yolov5] [INFO] file=C:\Users\Admin\Desktop\pythonDoAn\run.py line=30 func=predict var=img value=array([[[ 16,  30,  48],
+        [  8,  23,  42],
+        [  3,  17,  39],
+        ...,
+        [ 54,  93, 138],
+        [ 55,  94, 139],
+        [ 75, 114, 159]],
+
+       [[ 29,  43,  62],
+        [ 10,  25,  44],
+        [  2,  18,  41],
+        ...,
+        [ 62, 101, 146],
+        [ 58,  97, 142],
+        [ 64, 103, 148]],
+
+       [[ 40,  54,  76],
+        [ 21,  35,  57],
+        [  8,  24,  47],
+        ...,
+        [ 63, 102, 146],
+        [ 65, 104, 148],
+        [ 68, 107, 151]],
+
+       ...,
+
+       [[ 28,  57,  88],
+        [ 26,  55,  86],
+        [ 33,  62,  93],
+        ...,
+        [ 32,  59,  93],
+        [ 26,  53,  87],
+        [ 29,  56,  90]],
+
+       [[ 33,  63,  92],
+        [ 32,  62,  91],
+        [ 35,  65,  94],
+        ...,
+        [ 31,  58,  92],
+        [ 26,  53,  87],
+        [ 20,  47,  81]],
+
+       [[ 35,  65,  94],
+        [ 30,  60,  89],
+        [ 35,  65,  94],
+        ...,
+        [ 31,  58,  92],
+        [ 36,  63,  97],
+        [ 31,  58,  92]]], dtype=uint8)
+[2025-06-22 11:24:06,293] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:24:06,758] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:55:21,074] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 11:55:21,074] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 11:55:23,062] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 11:55:23,062] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 11:55:23,062] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 11:55:23,063] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 11:55:23,063] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 11:55:23,063] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 11:55:23,063] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 11:55:23,064] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 11:55:23,064] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 11:56:40,442] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 11:56:40,442] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 11:56:42,586] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 11:56:42,586] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 11:56:42,586] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 11:56:42,586] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 11:56:42,586] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 11:56:42,586] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 11:56:42,586] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 11:56:42,586] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 11:56:42,586] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 11:57:04,534] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 11:57:04,534] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 11:57:06,470] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 11:57:06,470] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 11:57:06,471] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 11:57:06,471] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 11:57:06,471] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 11:57:06,472] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 11:57:06,472] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 11:57:06,472] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 11:57:06,472] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 11:57:07,754] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:57:07,758] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:57:08,219] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:57:22,292] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 11:57:22,292] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 11:57:24,241] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 11:57:24,241] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 11:57:24,241] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 11:57:24,241] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 11:57:24,241] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 11:57:24,241] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 11:57:24,241] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 11:57:24,241] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 11:57:24,241] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 11:57:25,477] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:57:25,493] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:57:25,904] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:57:30,729] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:57:30,732] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:57:31,164] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:57:34,099] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:57:34,103] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:57:34,542] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:57:38,274] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:57:38,277] [src.RCNN.rcnn] [INFO] (3, 224, 192)
+[2025-06-22 11:57:38,665] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:57:45,190] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:57:45,190] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:57:45,674] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:57:49,535] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:57:49,709] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:57:49,724] [src.RCNN.rcnn] [INFO] (3, 224, 192)
+[2025-06-22 11:57:50,107] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:57:51,726] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:57:51,741] [src.RCNN.rcnn] [INFO] (3, 224, 192)
+[2025-06-22 11:57:52,114] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:57:53,753] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:57:53,923] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:57:53,939] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:57:54,357] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:57:56,500] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:57:56,677] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:57:56,694] [src.RCNN.rcnn] [INFO] (3, 224, 192)
+[2025-06-22 11:57:57,109] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:57:59,678] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:57:59,877] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:57:59,893] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:58:00,396] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:58:02,741] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:58:02,944] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:58:02,944] [src.RCNN.rcnn] [INFO] (3, 224, 192)
+[2025-06-22 11:58:03,395] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:58:05,732] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:58:05,734] [src.RCNN.rcnn] [INFO] (3, 224, 192)
+[2025-06-22 11:58:06,138] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:58:08,501] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:58:08,501] [src.RCNN.rcnn] [INFO] (3, 224, 192)
+[2025-06-22 11:58:08,947] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:58:10,767] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:58:10,950] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:58:11,148] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:58:11,309] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:58:11,309] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:58:11,838] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:58:13,835] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:58:13,839] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:58:14,242] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:58:17,140] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:58:17,144] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:58:17,640] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 11:58:19,409] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 11:58:19,413] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 11:58:19,896] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 12:07:07,727] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 12:07:07,727] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 12:07:09,627] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 12:07:09,627] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 12:07:09,627] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 12:07:09,627] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 12:07:09,627] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 12:07:09,627] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 12:07:09,627] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 12:07:09,627] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 12:07:09,627] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 12:07:10,809] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 12:07:10,809] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 12:07:11,226] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 12:07:14,501] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 12:07:14,505] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 12:07:14,964] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 12:07:17,337] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 12:07:17,341] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 12:07:17,809] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 12:07:19,641] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 12:07:19,644] [src.RCNN.rcnn] [INFO] (3, 224, 192)
+[2025-06-22 12:07:20,066] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 12:07:21,517] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 12:07:21,521] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 12:07:21,979] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 12:07:24,417] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 12:07:24,615] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 12:07:24,617] [src.RCNN.rcnn] [INFO] (3, 224, 192)
+[2025-06-22 12:07:25,032] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 12:09:19,405] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 12:09:19,405] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 12:09:21,291] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 12:09:21,291] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 12:09:21,291] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 12:09:21,292] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 12:09:21,292] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 12:09:21,292] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 12:09:21,292] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 12:09:21,293] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 12:09:21,293] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 12:09:22,604] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 12:09:22,608] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 12:09:22,980] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 18:54:48,338] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 18:54:48,339] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 18:54:51,045] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 18:54:51,045] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 18:54:51,046] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 18:54:51,046] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 18:54:51,046] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 18:54:51,047] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 18:54:51,047] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 18:54:51,047] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 18:54:51,048] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 18:54:52,544] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 18:54:52,564] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 18:54:52,998] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 18:54:55,573] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 18:54:55,577] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 18:54:56,049] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 18:59:56,458] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 18:59:56,459] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 18:59:59,040] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 18:59:59,040] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 18:59:59,041] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 18:59:59,041] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 18:59:59,041] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 18:59:59,042] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 18:59:59,042] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 18:59:59,042] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 18:59:59,043] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 19:00:00,401] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 19:00:00,405] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 19:00:00,948] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 23:21:23,709] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 23:21:23,709] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 23:21:26,292] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 23:21:26,292] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 23:21:26,292] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 23:21:26,292] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 23:21:26,307] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 23:21:26,307] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 23:21:26,307] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 23:21:26,307] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 23:21:26,307] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 23:21:27,600] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 23:22:49,576] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 23:22:49,576] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 23:22:52,118] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 23:22:52,118] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 23:22:52,118] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 23:22:52,118] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 23:22:52,118] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 23:22:52,118] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 23:22:52,118] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 23:22:52,118] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 23:22:52,118] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 23:22:53,427] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 23:22:53,432] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 23:22:54,010] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 23:23:07,560] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 23:23:07,560] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 23:23:09,974] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 23:23:09,974] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 23:23:09,974] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 23:23:09,974] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 23:23:09,974] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 23:23:09,974] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 23:23:09,974] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 23:23:09,974] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 23:23:09,974] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 23:23:11,184] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 23:23:11,188] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 23:23:11,613] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 23:23:14,183] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 23:23:14,199] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 23:23:14,698] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 23:28:12,625] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 23:28:12,625] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 23:28:14,925] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 23:28:14,925] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 23:28:14,941] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 23:28:14,942] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 23:28:14,942] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 23:28:14,942] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 23:28:14,942] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 23:28:14,942] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 23:28:14,942] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 23:28:16,172] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 23:28:16,172] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 23:28:16,592] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 23:28:19,544] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 23:28:19,544] [src.RCNN.rcnn] [INFO] (3, 224, 224)
+[2025-06-22 23:28:20,010] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 23:55:37,169] [src.YOLOV5.yolov5] [INFO] Running on CPU
+[2025-06-22 23:55:37,169] [src.YOLOV5.yolov5] [INFO] Loading suscces model yolov5
+[2025-06-22 23:55:39,647] [src.RCNN.rcnn_preprocess] [INFO] -----------  Model Configuration -----------
+[2025-06-22 23:55:39,647] [src.RCNN.rcnn_preprocess] [INFO] Model Arch: RCNN
+[2025-06-22 23:55:39,647] [src.RCNN.rcnn_preprocess] [INFO] Transform Order: 
+[2025-06-22 23:55:39,647] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Resize
+[2025-06-22 23:55:39,647] [src.RCNN.rcnn_preprocess] [INFO] --transform op: NormalizeImage
+[2025-06-22 23:55:39,647] [src.RCNN.rcnn_preprocess] [INFO] --transform op: Permute
+[2025-06-22 23:55:39,647] [src.RCNN.rcnn_preprocess] [INFO] --transform op: PadStride
+[2025-06-22 23:55:39,647] [src.RCNN.rcnn_preprocess] [INFO] --------------------------------------------
+[2025-06-22 23:55:39,647] [src.RCNN.rcnn] [INFO] Loading success RCNN  ....
+[2025-06-22 23:55:40,875] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 23:55:40,875] [src.RCNN.rcnn] [DEBUG] (3, 224, 224)
+[2025-06-22 23:55:41,313] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 23:55:43,301] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 23:55:43,316] [src.RCNN.rcnn] [DEBUG] (3, 224, 224)
+[2025-06-22 23:55:43,798] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 23:55:45,174] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 23:55:45,174] [src.RCNN.rcnn] [DEBUG] (3, 224, 224)
+[2025-06-22 23:55:45,611] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 
+[2025-06-22 23:55:46,920] [src.YOLOV5.yolov5] [INFO] Model Yolov5 predict img
+[2025-06-22 23:55:46,920] [src.RCNN.rcnn] [DEBUG] (3, 224, 192)
+[2025-06-22 23:55:47,267] [src.RCNN.rcnn] [INFO] ONNXRuntime RCNN predict img crop 

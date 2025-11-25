@@ -1,0 +1,14 @@
+[2025-11-25 10:25:25,560] [app] [INFO] Running on CPU
+[2025-11-25 10:25:25,562] [app] [INFO] Loading suscces model yolov5
+[2025-11-25 10:25:29,629] [app] [INFO] -----------  Model Configuration -----------
+[2025-11-25 10:25:29,629] [app] [INFO] Model Arch: RCNN
+[2025-11-25 10:25:29,629] [app] [INFO] Transform Order: 
+[2025-11-25 10:25:29,630] [app] [INFO] --transform op: Resize
+[2025-11-25 10:25:29,630] [app] [INFO] --transform op: NormalizeImage
+[2025-11-25 10:25:29,630] [app] [INFO] --transform op: Permute
+[2025-11-25 10:25:29,630] [app] [INFO] --transform op: PadStride
+[2025-11-25 10:25:29,631] [app] [INFO] --------------------------------------------
+[2025-11-25 10:25:29,631] [app] [INFO] Loading success RCNN  ....
+[2025-11-25 10:25:30,072] [app] [INFO] Model Yolov5 predict img
+[2025-11-25 10:25:30,096] [app] [DEBUG] (3, 224, 224)
+[2025-11-25 10:25:30,571] [app] [INFO] ONNXRuntime RCNN predict img crop 
