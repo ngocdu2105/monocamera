@@ -11,7 +11,8 @@
 
 ## Introduction
 Find the coordinates of the center point of the object on the bottom surface. Then convert to the chessboard coordinates corresponding to the reference point.
-
+## Our proposed:
+<img src="https://github.com/thanhnguyencanh/MonoCalibNet/blob/main/image/Overview.png" width="750px">
 
 ## Installation
 
